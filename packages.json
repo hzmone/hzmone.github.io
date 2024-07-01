@@ -1,7 +1,10 @@
 [
   {
     "name": "example",
+    "version": "1.0.0",
+    "description": "An example package that displays \"Hello World!\" when run",
     "dependencies": [],
-    "repo": "https://github.com/hzmone/examplexpu"
+    "repo": "https://github.com/hzmone/examplexpu",
+    "install": "/usr/local/bin"
   }
 ]
